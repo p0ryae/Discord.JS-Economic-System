@@ -1,0 +1,29 @@
+{
+  "name": "economy",
+  "version": "1.0.0",
+  "description": "a Moderation & Ticket Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashCruft/Proxy.git"
+  },
+  "author": "DashCruft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashCruft/Proxy/issues"
+  },
+  "homepage": "https://github.com/DashCruft/Proxy#readme",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "discord-mongo-currency": "^1.0.4",
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "parse-duration": "^0.4.4"
+  }
+}
